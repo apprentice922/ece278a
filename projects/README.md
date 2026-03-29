@@ -22,4 +22,4 @@
 
 ## Grading Criteria
 
-See rubric on Canvas and in this repo.
+See rubric in this repo.
