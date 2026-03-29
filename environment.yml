@@ -8,6 +8,7 @@ dependencies:
   - opencv
   - pip
   - scikit-image
+  - notebook<7
   - pip:
     - jupyter_contrib_nbextensions
     - jupyter_nbextensions_configurator
