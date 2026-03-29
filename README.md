@@ -3,7 +3,7 @@ Welcome!
 
 This is the GitHub repository for the course:
 
-ECE-278a: Digital Image Processing at UC Santa Barbara, Spring 2024.
+ECE-278a: Digital Image Processing at UC Santa Barbara, Spring 2026.
 
 Instructor: [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane), [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/), UC Santa Barbara.
 

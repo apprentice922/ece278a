@@ -2,12 +2,13 @@ name: ece278a
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - jupyter_contrib_nbextensions
-  - jupyter_nbextensions_configurator
+  - python=3.12
   - matplotlib
   - numpy
   - opencv
   - pip
-  - rise
   - scikit-image
+  - pip:
+    - jupyter_contrib_nbextensions
+    - jupyter_nbextensions_configurator
+    - RISE
