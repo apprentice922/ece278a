@@ -1,25 +1,14 @@
-# Present a Project
+# Write and Present a Project
 
-- Deadline for presentations in class: 06/02 and 06/04. (5 min per student.)
+- Deadline for project proposal: April 7th, 7pm PT. Graded on completion on time.
+- Deadline for write up (paper): May 28th, 7pm. Graded based on rubrics provided in this repo.
+- Deadline for presentations in class: 06/02 and 06/04. (5 min per student.) Graded based on rubrics provided in this repo.
 - Teams of 4-5.
-
 
 ## Presenting on June 2nd
 
+TBD.
+
 ## Presenting on June 4th
 
-
-
-## Guidelines
-
-- Use the conda environment of the class, by running: `conda env create -f environment.yml`
-- Create a new subfolder in this folder with the name of your project
-- In this new folder:
-  - Add python files
-  - Add the Jupyter notebook that represents the bulk of your project.
-- Make sure to indicate which teammate did which part of the work.
-- You can submit code to this repository anytime until the deadline.
-
-## Grading Criteria
-
-See rubric in this repo.
+TBD.
