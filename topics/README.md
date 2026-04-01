@@ -19,7 +19,7 @@ See rubric in this repo.
 ## Choose Your Topic
 
 ### Edges and Contours
-- [] 04/28/2026: Edge detection: Sobel detector, Canny detector, Marr / Hildreth detector, Hough transform
+- [Daniel S, Dylan J, Justin X, Logan U] 04/28/2026: Edge detection: Sobel detector, Canny detector, Marr / Hildreth detector, Hough transform
 - [] 04/30/2026: Contour tracing: active contours (snakes, intelligent scissors, level set techniques)
 
 ### Segmentation techniques
