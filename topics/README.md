@@ -23,7 +23,7 @@ See rubric in this repo.
 - [x] 04/30/2026: Contour tracing: active contours (snakes, intelligent scissors, level set techniques). Sreeganesh S, Jason R, Neel T
 
 ### Segmentation techniques
-- [X] 05/05/2026: Segmentation: Thresholding + Region-based (region growing, etc)
+- [X] 05/05/2026: Segmentation: Thresholding + Region-based (region growing, etc) ------> Saif Alomari, 
 - [ ] 05/07/2026: Segmentation: Clustering (mean-shift) + Graph-based methods (graph-cut, random walk, etc)
 - [ ] 05/12/2026: Segmentation: Energy-minimization (Conditional Random Fields)
 
