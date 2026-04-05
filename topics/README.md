@@ -19,19 +19,19 @@ See rubric in this repo.
 ## Choose Your Topic
 
 ### Edges and Contours
-- [] 04/28/2026: Edge detection: Sobel detector, Canny detector, Marr / Hildreth detector, Hough transform
-- [] 04/30/2026: Contour tracing: active contours (snakes, intelligent scissors, level set techniques)
+- [x] 04/28/2026: Edge detection: Sobel detector, Canny detector, Marr / Hildreth detector, Hough transform. Daniel S, Dylan J, Justin X, Logan U
+- [x] 04/30/2026: Contour tracing: active contours (snakes, intelligent scissors, level set techniques). Sreeganesh S, Jason R, Neel T
 
 ### Segmentation techniques
-- [] 05/05/2026: Segmentation: Thresholding + Region-based (region growing, etc)
-- [] 05/07/2026: Segmentation: Clustering (mean-shift) + Graph-based methods (graph-cut, random walk, etc)
-- [] 05/12/2026: Segmentation: Energy-minimization (Conditional Random Fields)
+- [ ] 05/05/2026: Segmentation: Thresholding + Region-based (region growing, etc)
+- [ ] 05/07/2026: Segmentation: Clustering (mean-shift) + Graph-based methods (graph-cut, random walk, etc)
+- [ ] 05/12/2026: Segmentation: Energy-minimization (Conditional Random Fields)
 
 ### Image Alignment and Stitching
-- [] 05/14/2026: Image Alignment and Stitching
+- [x] 05/14/2026: Image Alignment and Stitching. Anisha B, Wenhui Xi
 
 ### Reconstruction
-- [] 05/19/2026: Reconstruction via triangulation (line of sight, linear + nonlinear methods)
-- [] 05/21/2026: Reconstruction: Structure from Motion (affine only), Tomasi and Kanade Factorization Method
-- [] 05/26/2026: Reconstruction: Active and Volumetric Stereo
+- [ ] 05/19/2026: Reconstruction via triangulation (line of sight, linear + nonlinear methods)
+- [x] 05/21/2026: Reconstruction: Structure from Motion (affine only), Tomasi and Kanade Factorization Method. Yanxiu Jin
+- [ ] 05/26/2026: Reconstruction: Active and Volumetric Stereo
  
