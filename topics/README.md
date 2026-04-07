@@ -31,7 +31,7 @@ See rubric in this repo.
 - [x] 05/14/2026: Image Alignment and Stitching. Anisha B
 
 ### Reconstruction
-- [ ] 05/19/2026: Reconstruction via triangulation (line of sight, linear + nonlinear methods)
+- [ ] 05/19/2026: Reconstruction via triangulation (line of sight, linear + nonlinear methods). Rohan Koshy
 - [x] 05/21/2026: Reconstruction: Structure from Motion (affine only), Tomasi and Kanade Factorization Method. Yanxiu Jin
 - [ ] 05/26/2026: Reconstruction: Active and Volumetric Stereo
  
