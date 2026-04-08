@@ -23,9 +23,9 @@ See rubric in this repo.
 - [x] 04/30/2026: Contour tracing: active contours (snakes, intelligent scissors, level set techniques). Sreeganesh S, Jason R, Neel T
 
 ### Segmentation techniques
-- [ ] 05/05/2026: Segmentation: Thresholding + Region-based (region growing, etc)
+- [X] 05/05/2026: Segmentation: Thresholding + Region-based (region growing, etc) ------> Saif Alomari, 
 - [x] 05/07/2026: Segmentation: Clustering (mean-shift) + Graph-based methods (graph-cut, random walk, etc)(Mengyao Li, Zichen Zhou, Yuchen Chen, Xinyi Yang)
-- [ ] 05/12/2026: Segmentation: Energy-minimization (Conditional Random Fields)
+- [X] 05/12/2026: Segmentation: Energy-minimization (Conditional Random Fields). Jared A.
 
 ### Image Alignment and Stitching
 - [x] 05/14/2026: Image Alignment and Stitching. Anisha B
