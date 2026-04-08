@@ -24,7 +24,7 @@ See rubric in this repo.
 
 ### Segmentation techniques
 - [X] 05/05/2026: Segmentation: Thresholding + Region-based (region growing, etc) ------> Saif Alomari, 
-- [ ] 05/07/2026: Segmentation: Clustering (mean-shift) + Graph-based methods (graph-cut, random walk, etc)
+- [x] 05/07/2026: Segmentation: Clustering (mean-shift) + Graph-based methods (graph-cut, random walk, etc)(Mengyao Li, Zichen Zhou, Yuchen Chen, Xinyi Yang)
 - [X] 05/12/2026: Segmentation: Energy-minimization (Conditional Random Fields). Jared A.
 
 ### Image Alignment and Stitching
