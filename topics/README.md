@@ -28,7 +28,7 @@ See rubric in this repo.
 - [X] 05/12/2026: Segmentation: Energy-minimization (Conditional Random Fields). Jared A, Rohan Koshy.
 
 ### Image Alignment and Stitching
-- [x] 05/14/2026: Image Alignment and Stitching. Anisha B, Wenhui Xi
+- [x] 05/14/2026: Image Alignment and Stitching. Anisha B, Wenhui Xi, Pushpita J
 
 ### Reconstruction
 - [x] 05/19/2026: Reconstruction via triangulation (line of sight, linear + nonlinear methods) (Tianyi C, Chun-yu C, Yutong W, Zerui W)
